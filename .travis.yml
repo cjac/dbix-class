@@ -1,0 +1,4 @@
+# Prevent builds of this branch entirely
+branches:
+  except:
+    - /./
